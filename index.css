@@ -22,6 +22,15 @@ nav a{
   font-size: 15px;
   color:white;
   float: left;
+  transition: background 0.25s, color 0.25s;
+}
+nav a:hover{
+  text-decoration: none;
+  margin: 10px;
+  font-size: 15px;
+  background-color: white;
+  color:black;
+  float: left;
 }
 .intro{
 
