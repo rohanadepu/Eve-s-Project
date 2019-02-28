@@ -1,2 +1,2 @@
 # Eve-s-Project
-https://rohanadepu.github.io/eve-s-project/ 
+https://rohanadepu.github.io/Eve-s-Project/ 
